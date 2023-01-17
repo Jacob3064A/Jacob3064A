@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
+🌱 I’m currently learning ...
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+it's+been+a+while+😄)](https://git.io/typing-svg)
