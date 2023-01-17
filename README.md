@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jacob3064A/Jacob3064A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+!+it's+been+a+while;Second+line+of+text)](https://git.io/typing-svg)
